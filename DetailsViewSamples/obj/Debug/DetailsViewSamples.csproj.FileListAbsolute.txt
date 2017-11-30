@@ -1,0 +1,12 @@
+c:\users\dmitriy\documents\visual studio 2012\Projects\DetailsViewSamples\DetailsViewSamples\bin\DetailsViewSamples.dll
+c:\users\dmitriy\documents\visual studio 2012\Projects\DetailsViewSamples\DetailsViewSamples\bin\DetailsViewSamples.pdb
+c:\users\dmitriy\documents\visual studio 2012\Projects\DetailsViewSamples\DetailsViewSamples\obj\Debug\DetailsViewSamples.csprojResolveAssemblyReference.cache
+c:\users\dmitriy\documents\visual studio 2012\Projects\DetailsViewSamples\DetailsViewSamples\obj\Debug\DetailsViewSamples.dll
+c:\users\dmitriy\documents\visual studio 2012\Projects\DetailsViewSamples\DetailsViewSamples\obj\Debug\DetailsViewSamples.pdb
+C:\Users\Antony\Desktop\006_DataBinding\003_DetailsViewSamples\DetailsViewSamples\bin\DetailsViewSamples.dll.config
+C:\Users\Antony\Desktop\006_DataBinding\003_DetailsViewSamples\DetailsViewSamples\bin\DetailsViewSamples.dll
+C:\Users\Antony\Desktop\006_DataBinding\003_DetailsViewSamples\DetailsViewSamples\bin\DetailsViewSamples.pdb
+C:\Users\Antony\Desktop\006_DataBinding\003_DetailsViewSamples\DetailsViewSamples\obj\Debug\DetailsViewSamples.csprojResolveAssemblyReference.cache
+C:\Users\Antony\Desktop\006_DataBinding\003_DetailsViewSamples\DetailsViewSamples\obj\Debug\DetailsViewSamples.csproj.CoreCompileInputs.cache
+C:\Users\Antony\Desktop\006_DataBinding\003_DetailsViewSamples\DetailsViewSamples\obj\Debug\DetailsViewSamples.dll
+C:\Users\Antony\Desktop\006_DataBinding\003_DetailsViewSamples\DetailsViewSamples\obj\Debug\DetailsViewSamples.pdb
